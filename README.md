@@ -7,13 +7,16 @@ Real-time Weather Data: Displays weather information including temperature, humi
 Interactive Map: Integrated Mapbox for showing the location on an interactive map.
 Location Search: Users can search for weather data by entering a city or location name.
 User-Friendly Interface: Designed using HTML, CSS, and JavaScript to provide a smooth and engaging experience.
+
 Technologies Used:
 HTML for the structure and layout of the app.
 CSS for styling and responsive design.
 JavaScript for fetching and displaying real-time weather data.
 Weather API to fetch up-to-date weather information.
 Mapbox to display interactive maps with location markers.
+
 Setup and Installation:
+
 Clone the repository:
 git clone https://github.com/your-username/weather-app.git](https://github.com/mayankpanchal21/weather-app.git
 
